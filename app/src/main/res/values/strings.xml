@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tarjeta de presentación</string>
+    <string name="nombre_text">Roberto Mejia Osorio</string>
+    <string name="enunciado_text">Android Desarrollador Extraordinario!</string>
+    <string name="red_social_text">Robert U Mejia</string>
+    <string name="correo_text">robertoalexismejia@gmail.com</string>
 </resources>
